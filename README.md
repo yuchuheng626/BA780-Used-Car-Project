@@ -10,7 +10,7 @@ The globally used car market size was valued at $1.50 trillion in 2021, and it i
 The goal of this project is to identify and evaluate the price of used cars based on their features. We will implement EDA methods and a regression model in python to help customers to identify what characteristics of a used car would affect the price.
 
 
-##Report Summary
+## Report Summary
 Our notebook mainly consists of three parts:
 
 - First structure our notebook with simple variable exploration. By investigating each individual variable separately, we will understand what each variable is consisted of, and how they will cause the price variation, checking if they have a correlation with price
